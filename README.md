@@ -1,2 +1,3 @@
 # 671KaggleProject
-Airbnb Kaggle Project for CS671
+
+Kaya Celebi's project for CS671. Model used: Random Forests, Logistic Regression, SVM.
